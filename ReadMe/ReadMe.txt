@@ -1,0 +1,1 @@
+This text is the readme text, and it only explains that its not used today. Purely a trial
